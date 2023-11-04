@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HappyBirthdayAlex</string>
+    <string name="button_congratulation">Мои пожелания</string>
+    <string name="button_love">Причины моей любви</string>
+    <string name="button_dates">Важные даты</string>
+    <string name="button_photos">Любимые фото</string>
+</resources>
